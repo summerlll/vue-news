@@ -6,7 +6,7 @@
     <router-view/>
 
     <h2>第二个版本的 news</h2>
-
+    <h2></h2>
   </div>
 </template>
 
