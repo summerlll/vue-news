@@ -1,6 +1,6 @@
 # my-project
 
-> A Vue.js project
+> 我的 vue 单页应用 ,采用 vue2.x + vue-router + vuex 完成
 
 ## Build Setup
 
