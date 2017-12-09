@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>v1 版本的 news</h1>
     <img src="./assets/logo.png">
     <router-view/>
   </div>
