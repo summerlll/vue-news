@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <h1>v1 版本的 news</h1>
+    <h2>修复 v1版本的 bug</h2>
     <img src="./assets/logo.png">
     <router-view/>
 
