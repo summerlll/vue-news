@@ -2,6 +2,9 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view/>
+
+    <h2>第二个版本的 news</h2>
+
   </div>
 </template>
 
